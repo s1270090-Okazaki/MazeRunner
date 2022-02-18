@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-02-18T16:14:49.920+09:00
+  initializedAtString: 2022-02-18T15:57:18.057+09:00
+  entries:
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/okazakikeita/Desktop/pra/Maze Runner/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/okazakikeita/Desktop/pra/Maze Runner/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/okazakikeita/Desktop/pra/Maze Runner/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/okazakikeita/Desktop/pra/Maze Runner/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/okazakikeita/Desktop/pra/Maze Runner/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/okazakikeita/Desktop/pra/Maze Runner/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/okazakikeita/Desktop/pra/Maze Runner/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
